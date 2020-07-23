@@ -45,7 +45,7 @@ let products = [
           model:"C#",
           price:"",
           currently:"",
-          photo:"__C______Junior_IT.jpg",
+          photo:"1_w0u2TZpEp3WfKMrlL5jTSw.png",
           description:"C# — was Разработан в 1998—2001 годах группой инженеров компании Microsoft под руководством Андерса Хейлсберга и Скотта Вильтаумота ",
       },
     ]
