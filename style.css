@@ -1,0 +1,12 @@
+.purchase-btn{
+ bottom: 0;
+ border:green 5px solid;
+ border-radius:  12px ;
+ width: 55px;
+ height: 35px;
+}
+.phone-cost{
+    position: relative;
+    height: 550px;
+    width: 550px;
+}

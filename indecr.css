@@ -1,0 +1,147 @@
+.d-block{
+    width: 750px;
+    height: 640px;
+}
+.pedro{
+    width: 1350px;
+    background-color: #00ff00;
+}
+.wertiop{
+color: rgb(255, 0, 0);
+left: 800px;  
+padding: 10px; 
+}
+.ripd{
+    bottom: 201px;
+    width: 501px;
+    height: 41px;
+
+background-color: #1900ff;
+}
+
+.ertyuiop{
+   background-color: #00ffea; 
+}
+#redre{
+    width: 540px;
+  
+    padding: 25px;
+}
+#rede{
+    width: 540px;
+    height: 240px;
+    padding: 25px;
+    background-color: #7bff00;
+}
+
+   
+.d-gog{
+    width: 275px;
+    height: 200px;
+    border-right: 400cm;
+}  
+.content{
+   padding: 80px;
+ 
+ 
+}  
+.d-god{
+    width: 320px;
+    height: 200px;
+    border-right: 400cm;
+}  
+.d-block:hover{
+    transition: 1s;
+}
+.card-body{
+
+height: 280px;
+width:400px ;
+}
+.card-text{
+width:360px  ;
+margin-left: 20px;
+font-size: large;
+}
+.list{
+  display: flex;  
+  text-decoration: none;
+  list-style: none;
+  border:#1900ff 5px solid;
+}
+
+.card-body{
+    width: 300px;
+ height: 50px;
+}
+.d-block{
+    height: 560px;
+    width: 1150px;
+    margin-left: 100px;
+}
+.card-img{
+    width: 18000px;
+    height: 300px;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    border:rgb(255, 255, 255) 200px solid;
+
+}
+
+#btr{
+padding: -20px;
+}
+#aaz{
+   color: rgb(248, 246, 246);
+}
+.darknet{
+   float: right;
+   margin-right: 250px;
+
+   color: blue;
+    font-size: large;
+    
+}
+
+
+.darnet{
+    float: right;
+    margin-right: 280px;
+    font-size: larger;
+    color: blue;
+ 
+}
+.qwerty{
+    float: right;
+    margin-right: 320px;
+
+}
+.dark{
+    font-size: larger;
+    color: blue;
+}
+.net{
+    font-size: larger;
+    color: blue;
+    float: left;
+    margin-left:100px ;
+   
+}
+.asd{
+    float:right;
+    margin-right:100px ;
+    width: 660px;
+    height: 480px;
+}
+.dar{
+    font-size: larger;
+    color: blue;
+    float: left; 
+    margin-left:100px ;
+}
+.iq{                                                                            
+width: 500px;
+height: 300px;
+}
