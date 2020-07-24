@@ -1,3 +1,8 @@
+#elements_list{
+    border-left:  solid white  130px;
+
+    border-bottom: solid white  50px;
+}
 .d-block{
     width: 750px;
     height: 640px;
