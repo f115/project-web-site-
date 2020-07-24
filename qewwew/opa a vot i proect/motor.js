@@ -7,7 +7,7 @@ let productManager = {
 let domManager = {
  createProductContainer: function (product) {
 let main_container = document.createElement("section");
-let image_phone = document.createElement("img");
+let image_phone = document.createElement("");
 let product_title = document.createElement("h3");
 let product_description = document.createElement("p");   ;
 let purchase_product = document.createElement("button");
