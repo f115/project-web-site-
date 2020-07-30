@@ -14,7 +14,7 @@ let elements = [
     photo:"Без названия.png",
     description:"HTML",
   },
-  {
+  { 
     id:3,
     element:"javascript",
     photo:"Без названия (1).png",
